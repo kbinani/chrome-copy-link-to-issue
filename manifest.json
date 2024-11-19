@@ -2,7 +2,6 @@
   "version": "0.2.0",
   "name": "Copying links and titles from GitHub issues and pull requests",
   "description": "GitHub issue と pull request へのリンクとタイトルをコピーします",
-  "default_locale": "ja",
   "background": {
     "scripts": [
       "scripts/background.js"

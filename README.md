@@ -1,16 +1,3 @@
-# chrome-copy-link-to-issue
+# chrome-extension-github-copy-issue-title
 
-Google Chrome extension for copying a link to the GitHub issue as Markdown/HTML etc.
-
-![screenshot](images/screenshot.png)
-
-## Download
-
-You can install it through the [Chrome web store](https://chrome.google.com/webstore/detail/copy-the-link-to-github-i/cnnomdadchddnfpalaaoniehedbffnpp)
-
-## Features
-
-- Copy a url of issue or pull request as ...
-  - Markdown: `[#number｜title](url)`
-  - HTML: `<a href="url">#number｜title</a>`
-  - Plain text: `#number｜title url`
+A Google Chrome extension for copying links and titles from GitHub issues and pull requests.

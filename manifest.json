@@ -1,7 +1,7 @@
 {
   "version": "0.2.0",
-  "name": "__MSG_extName__",
-  "description": "__MSG_extDescription__",
+  "name": "Copying links and titles from GitHub issues and pull requests",
+  "description": "GitHub issue と pull request へのリンクとタイトルをコピーします",
   "default_locale": "ja",
   "background": {
     "scripts": [

@@ -4,7 +4,9 @@
   "description": "__MSG_extDescription__",
   "default_locale": "ja",
   "background": {
-    "scripts": ["scripts/background.js"],
+    "scripts": [
+      "scripts/background.js"
+    ],
     "persistent": false
   },
   "page_action": {
@@ -12,7 +14,6 @@
     "default_title": "copy",
     "default_popup": "views/popup.html"
   },
-  "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
   "permissions": [
     "clipboardWrite",
     "activeTab",
